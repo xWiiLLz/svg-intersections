@@ -15,9 +15,10 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git://github.com/effektif/svg-intersections.git"
+    "url": "git://github.com/xWiiLLz/svg-intersections.git"
   },
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "eslint": "eslint .",
     "test": "expresso"
